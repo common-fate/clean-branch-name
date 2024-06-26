@@ -25,5 +25,5 @@ outputs:
   raw_branch_input:
     description: 'the input branch name'
 runs:
-  using: 'node16'
+  using: 'node20'
   main: 'dist/index.js'
